@@ -42,7 +42,11 @@ The demo prints both settings so the difference is visible. The default for ever
 
 ## Task list
 
-The starter cards for this scope are GitHub issues on this repository: https://github.com/ywang0408/LASA/issues
+Kanban board: https://github.com/users/janij-01/projects/1
+
+The board is a public GitHub Project named Team 24 LASA attendance pilot. The Backlog view has five columns: Backlog, Ready, In progress, In review, and Done. The ten starter issues from this repository are on the board.
+
+The same issues are listed at https://github.com/ywang0408/LASA/issues
 
 1. Send this scope to LASA for review.
 2. Confirm the open items: paid-registration counting rule, membership split, final candidate list, output format, and the Paris figures used only as context.
