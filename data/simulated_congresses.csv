@@ -1,0 +1,9 @@
+year,host_city,host_country,paid_member_registrations,usa_registrations,latam_and_other_registrations,data_source
+2014,Boston,USA,3200,1760,1440,simulated
+2016,Lima,Peru,2100,1050,1050,simulated
+2017,Barcelona,Spain,2800,1540,1260,simulated
+2018,Barcelona,Spain,3000,1500,1500,simulated
+2019,Boston,USA,3400,1870,1530,simulated
+2022,Guadalajara,Mexico,1900,950,950,simulated
+2023,Montreal,Canada,2600,1430,1170,simulated
+2024,Lima,Peru,2300,1150,1150,simulated
