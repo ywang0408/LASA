@@ -38,6 +38,10 @@ COORDINATES = {
     "mexico city": (19.43, -99.13),
     "sao paulo": (-23.55, -46.63),
     "madrid": (40.42, -3.70),
+    "vancouver": (49.28, -123.12),
+    "bogota": (4.71, -74.07),
+    "san francisco": (37.77, -122.42),
+    "paris": (48.86, 2.35),
 }
 
 DEFAULT_HUBS = ("New York", "Mexico City", "Sao Paulo", "Madrid")
