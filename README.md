@@ -1,8 +1,8 @@
 # Team 24 — LASA host-city attendance pilot
 
-This repository is the working code for Team 24 in Intro to AI (Heinz College, Fall 2026). The pilot compares candidate host cities for a LASA congress. The outcome is paid LASA member registrations. LASA still needs to confirm the counting rule for cancellations and complimentary registrations.
+This repository is the working code for Team 24 in Intro to AI (Heinz College, Fall 2026). The pilot compares candidate host cities for a LASA congress. The outcome is a paid registration: `Registered == 1` and `Reg. Amount > 0`. A zero amount is complimentary. Cancellations are already excluded from the file LASA sent.
 
-The demo runs offline on a simulated file. It does not contain LASA’s historical attendance records. A historical-average baseline is the only attendance summary the demo computes. Regularized regression is not fit, because this file has eight simulated congresses and the scope treats a model that small as too weak to validate.
+The public demo runs offline on a simulated file. It does not contain LASA’s member records. The notebooks `src/lasa_pilot/train_attendance_model.ipynb` and `src/lasa_pilot/City_comparison.ipynb` read a local workbook named `LASA2017 - LASA2026.xlsx`, including Lima 2017. Place that file next to this README on the machine that runs the notebook. Do not commit it. Paris 2026 is excluded from training.
 
 ## Run
 
