@@ -5,4 +5,5 @@ __pycache__/
 venv/
 .DS_Store
 *.xlsx
+!src/lasa_pilot/top100_international_visitors.xlsx
 src/lasa_pilot/artifacts/
