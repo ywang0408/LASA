@@ -6,4 +6,5 @@ venv/
 .DS_Store
 *.xlsx
 !src/lasa_pilot/top100_international_visitors.xlsx
+!src/lasa_pilot/City_Attractiveness_and_Tourism_Indexes_2026.xlsx
 src/lasa_pilot/artifacts/
